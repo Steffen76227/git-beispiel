@@ -1,0 +1,1 @@
+# Eine zweite Testdatei zum Lernen von GIT

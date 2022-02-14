@@ -1,0 +1,20 @@
+#Test for GIT in local repository environment
+Gelernte GIT Befehle
+
+http://git-scm.com/download/win
+
+Installationsverzeichnis: C:\Program Files\Git
+1: ..\etc\gitconfig
+git config --global core.editor notepad++
+git config --global init.defaultBranch main (-> Hauptzweig heisst dann main statt master)
+2: C:\Users\Steve\.gitconfig (Name und Email)
+git config --global user.name "Steffen Schrader"
+git config --global user.email SteffenSchrader@online.de
+
+git --version
+
+git config --help  -> Webseite
+git config -h  -> Console
+
+git init -> lokales Repository anlegen im aktuellen Verzeichnis (.git Verzeichnis)
+git clone https://github.com/BMU-Buch/git-bsp.git  -> Klonen eines Repositorys

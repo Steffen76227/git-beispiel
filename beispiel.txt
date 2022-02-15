@@ -1,3 +1,4 @@
+# Im hotfix01 branch zweite Änderung mit neuer Zeile hier
 #Test for GIT in local repository environment
 # Zweite Änderung
 # Dritte Änderung

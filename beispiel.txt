@@ -5,4 +5,5 @@
 # Vierte Änderung während dritte noch nicht commited
 #
 # Fünfte Änderung für tag tests
-# Hofix mit neuer Zeile
+# Hotfix mit neuer Zeile
+# Änderung im Hotfix01 mit Zeile am Ende --> conflict

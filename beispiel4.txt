@@ -1,2 +1,4 @@
 # Eine zweite Testdatei zum Lernen von GIT
 # Erste Änderung
+#
+# Zweig2 Änderungen

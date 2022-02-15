@@ -9,4 +9,6 @@
 # Änderung im Hotfix01 mit Zeile am Ende --> conflict
 # Neue Zeile im master branch hinzugefügt
 # Merge-Conflict provozieren - master Änderung
+#
+# zweig1
 
